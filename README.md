@@ -1,0 +1,2 @@
+# StatsModels
+Statsmodels Practices
